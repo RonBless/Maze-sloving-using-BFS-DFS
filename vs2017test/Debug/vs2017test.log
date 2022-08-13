@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\AFEKA\Year 3\Summer\בינה מלאכותית\עבודות בית\1\vs2017test\vs2017test\main.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\AFEKA\Year 3\Summer\בינה מלאכותית\עבודות בית\1\vs2017test\vs2017test\main.cpp(441,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\AFEKA\Year 3\Summer\בינה מלאכותית\עבודות בית\1\vs2017test\vs2017test\main.cpp(303): warning C4715: 'bidirectionalSearch': not all control paths return a value
+  vs2017test.vcxproj -> E:\AFEKA\Year 3\Summer\בינה מלאכותית\עבודות בית\1\vs2017test\Debug\vs2017test.exe
